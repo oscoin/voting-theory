@@ -21,7 +21,6 @@ This section should have a brief voting theory primer + links to key papers with
 
 - [Arrow’s Impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)
 - [Condorcet paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)
-- [Paradox of voting](https://en.wikipedia.org/wiki/Paradox_of_voting)
 - [Duverger's law](https://en.wikipedia.org/wiki/Duverger%27s_law)
 - [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
 - [Revelation principle](https://en.wikipedia.org/wiki/Revelation_principle)
@@ -92,6 +91,18 @@ Mix networks are better suited for elections with a large number of candidates o
 ### Receipt vs receipt-free
 
 Chaum (2002)
+
+
+### Voter apathy
+
+Many elections suffer from an incentive problem in which voters are unwilling to pay the 'cost' of going to the polls, instead relying on others to determine the outcome. Whether voter apathy constitutes a tragety of the commons is debatable semantically.
+
+The philisophical underpinnings of this phenomenon are often termed the [paradox of voting](https://en.wikipedia.org/wiki/Paradox_of_voting)
+
+- [reasons to vote](https://plato.stanford.edu/entries/voting/#1)
+- compulsory voting
+
+
 
 ### Criticisms of online voting
 
