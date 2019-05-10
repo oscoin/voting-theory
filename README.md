@@ -8,5 +8,5 @@ The purpose of this document is twofold. First, it is intended as a public resou
 ## Contents
 
 1. [Literature review](sections/literature-review.md)
-2. [Blockchain governance](sections/blockchain-goverhance.md)
+2. [Blockchain governance](sections/blockchain-governance.md)
 3. [open source coin requirements](sections/oscoin-requirements.md)
