@@ -64,7 +64,7 @@ This section should have a brief voting theory primer + links to key papers with
 **Bitcoin***
 
 - [Paul Sztorc, The Win-Win Blocksize Solution](http://www.truthcoin.info/blog/win-win-blocksize/)
-- [Paul Sztorc, Fork Futures (via the Exchanges)](http://www.truthcoin.info/blog/fork-futures/
+- [Paul Sztorc, Fork Futures (via the Exchanges)](http://www.truthcoin.info/blog/fork-futures/)
 
 **Amoveo**
 - [Amoveo’s First Futarchy Market](https://medium.com/@tallakt/amoveos-first-futarchy-market-233d01b9fe53)
