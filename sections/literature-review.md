@@ -30,12 +30,23 @@ This section should have a brief voting theory primer + links to key papers with
 
 ## Terminology
 
-- Sortition
-- Proportional representation
-- Delegation
-- Chain-of-custody
-- Condorcet efficiency
-- Representative democracy
+[**Representative democracy**](https://en.wikipedia.org/wiki/Representative_democracy)
+
+definition: elected officials representing a group of individuals, rather than direct democracy
+
+[**Sortition**](https://en.wikipedia.org/wiki/Sortition)
+
+definition: selection of political officials by randomly sampling from a larger candidate pool, ex. jury selection in the U.S.
+
+[**Proportional representation**](https://en.wikipedia.org/wiki/Proportional_representation)
+
+definition: selection of political officials in proportion to the electorate's support of political parties.
+
+**Condorcet efficiency**
+
+> The Condorcet winner in an election is the candidate who would beable to defeat all other candidates in a series of pairwise elections. The Con-dorcet  e½ciency  of  a voting  procedure  is  the  conditional  probability  that  it will  elect  the  Condorcet  winner  ,given  that  a  Condorcet  winner  exists. [Gehrlein (2000)
+
+**Chain-of-custody**
 
 ## Voting schemes
 
@@ -133,3 +144,7 @@ https://arena-attachments.s3.amazonaws.com/4229454/b108661f2b8d32786a4c8768cd2ea
 David Chaum (2002)
 Secret Ballot Receipts and Transparent Integrity: Improving voter confidence and electronic voting at polling places
 http://www.notablesoftware.com/Papers/Chaum%20Secret%20Ballot%20Receipts.pdf
+
+William Gehrlein (2000)
+Condorcet efficiency: A preference for indifference
+https://arena-attachments.s3.amazonaws.com/4269946/71308f88e189a0dd459ec03319d298ef.pdf
