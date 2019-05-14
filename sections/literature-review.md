@@ -15,20 +15,29 @@
 - Censorship
 - ...
 
-## Background
+## Background & terminology
 
-This section should have a brief voting theory primer + links to key papers with notes.
+[**Arrow’s Impossibility theorem**](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)
 
-- [Arrow’s Impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)
-- [Condorcet paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)
-- [Duverger's law](https://en.wikipedia.org/wiki/Duverger%27s_law)
-- [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
-- [Revelation principle](https://en.wikipedia.org/wiki/Revelation_principle)
+No rank-order electoral system can be designed that always satisfies these three "fairness" criteria:
 
-[Democratic Mediums](https://medlabboulder.gitlab.io/democraticmediums/) - a directory of patterns for decision, deliberation, and noise maintained by Nathan Schneider
+- If every voter prefers alternative X over alternative Y, then the group prefers X over Y.
+- If every voter's preference between X and Y remains unchanged, then the group's preference between X and Y will also remain unchanged (even if voters' preferences between other pairs like X and Z, Y and Z, or Z and W change).
+- There is no "dictator": no single voter possesses the power to always determine the group's preference.
 
+Cardinal voting electoral systems are not covered by the theorem, as they convey more information than rank orders. However, Gibbard's theorem extends Arrow's theorem for that case. The theorem can also be sidestepped by weakening the notion of independence.
 
-## Terminology
+[**Condorcet paradox**](https://en.wikipedia.org/wiki/Condorcet_paradox)
+
+A situation in which collective preferences can be cyclic, even if the preferences of individual voters are not cyclic. This is paradoxical, because it means that majority wishes can be in conflict with each other: Majorities prefer, for example, candidate A over B, B over C, and yet C over A. When this occurs, it is because the conflicting majorities are each made up of different groups of individuals.
+
+Thus an expectation that transitivity on the part of all individuals' preferences should result in transitivity of societal preferences is an example of a fallacy of composition.
+
+[**Duverger's law**](https://en.wikipedia.org/wiki/Duverger%27s_law)
+
+[**Condorcet's jury theorem**](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
+
+[**Revelation principle**](https://en.wikipedia.org/wiki/Revelation_principle)
 
 [**Representative democracy**](https://en.wikipedia.org/wiki/Representative_democracy)
 
@@ -64,7 +73,10 @@ definition: selection of political officials in proportion to the electorate's s
 
 ### Condorcet methods
 
-### Range voting
+### Cardinal voting
+
+- Approval voting
+- Score / range voting
 
 ### Delegative a.k.a. liquid democracy
 
@@ -148,3 +160,5 @@ http://www.notablesoftware.com/Papers/Chaum%20Secret%20Ballot%20Receipts.pdf
 William Gehrlein (2000)
 Condorcet efficiency: A preference for indifference
 https://arena-attachments.s3.amazonaws.com/4269946/71308f88e189a0dd459ec03319d298ef.pdf
+
+[Democratic Mediums](https://medlabboulder.gitlab.io/democraticmediums/) - a directory of patterns for decision, deliberation, and noise maintained by Nathan Schneider
